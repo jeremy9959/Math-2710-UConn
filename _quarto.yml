@@ -2,18 +2,205 @@ project:
   type: website
 
 website:
-  title: "Math-2710-UConn"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
+  title: "Math 2710: Transition to Higher Mathematics"
+  sidebar:
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - index.qmd
       - about.qmd
+      - section: "Chapter 1 — Sets"
+        contents:
+          - text: "Sets, elements, and basic set notation"
+            href: notes/Chapter1/Ch1.1a.md
+          - text: "Set builder notation"
+            href: notes/Chapter1/Ch1.1b.md
+          - text: "Cartesian products and ordered pairs"
+            href: notes/Chapter1/Ch1.2.md
+          - text: "Subsets and the subset relation"
+            href: notes/Chapter1/Ch1.3a.md
+          - text: "Counting subsets of finite sets (the 2^n formula)"
+            href: notes/Chapter1/Ch1.3b.md
+          - text: "Element membership vs. subset notation"
+            href: notes/Chapter1/Ch1.3c.md
+          - text: "Power sets"
+            href: notes/Chapter1/Ch1.4.md
+          - text: "Set operations: union, intersection, and difference"
+            href: notes/Chapter1/Ch1.5.md
+          - text: "Set complement with respect to a universal set"
+            href: notes/Chapter1/Ch1.6.md
+          - text: "Venn diagrams"
+            href: notes/Chapter1/Ch1.7.md
+          - text: "Indexed families of sets"
+            href: notes/Chapter1/Ch1.8.md
+      - section: "Chapter 2 — Logic"
+        contents:
+          - text: "Statements and truth values"
+            href: notes/Chapter2/Ch2.1.md
+          - text: "Logical connectives: and, or, not"
+            href: notes/Chapter2/Ch2.2.md
+          - text: "Conditional statements and implication"
+            href: notes/Chapter2/Ch2.3.md
+          - text: "Biconditionals and logical equivalence"
+            href: notes/Chapter2/Ch2.4.md
+          - text: "Truth tables"
+            href: notes/Chapter2/Ch2.5.md
+          - text: "Logical equivalence and De Morgan's laws"
+            href: notes/Chapter2/Ch2.6.md
+          - text: "Quantifiers: universal and existential"
+            href: notes/Chapter2/Ch2.7.md
+          - text: "Paired quantifiers"
+            href: notes/Chapter2/Ch2.7b.md
+          - text: "Implications with quantified open sentences"
+            href: notes/Chapter2/Ch2.8.md
+          - text: "Translating English into logical notation"
+            href: notes/Chapter2/Ch2.9.md
+          - text: "Negations of quantified and conditional statements"
+            href: notes/Chapter2/Ch2.10.md
+          - text: "Deduction rules: modus ponens, proof by cases"
+            href: notes/Chapter2/Ch2.11.md
+      - section: "Chapter 3 — Counting"
+        contents:
+          - text: "The multiplication principle for counting ordered lists"
+            href: notes/Chapter3/Ch3.1.md
+          - text: "Multiplication principle applied to Cartesian products"
+            href: notes/Chapter3/Ch3.1a.md
+          - text: "Counting binary strings"
+            href: notes/Chapter3/Ch3.1b.md
+          - text: "The addition principle and disjoint unions"
+            href: notes/Chapter3/Ch3.2.md
+          - text: "Counting even 5-digit numbers with digit constraints"
+            href: notes/Chapter3/Ch3.2.Example5Redo.md
+          - text: "Permutations and k-permutations"
+            href: notes/Chapter3/Ch3.3.md
+          - text: "Combinations and binomial coefficients C(n,k)"
+            href: notes/Chapter3/Ch3.4.md
+          - text: "Pascal's triangle and the binomial theorem"
+            href: notes/Chapter3/Ch3.5.md
+      - section: "Chapter 4 — Direct Proof"
+        contents:
+          - text: "Theorems, definitions, propositions, and axioms"
+            href: notes/Chapter4/Ch4.1.md
+          - text: "The division algorithm and the fundamental theorem of arithmetic"
+            href: notes/Chapter4/Ch4.2.md
+          - text: "Direct proof: assuming the hypothesis and deriving the conclusion"
+            href: notes/Chapter4/Ch4.3a.md
+          - text: "AM-GM inequality and proof techniques"
+            href: notes/Chapter4/Ch4.3b.md
+          - text: "The role of definitions in proof construction"
+            href: notes/Chapter4/Ch4.3d.md
+          - text: "Least common multiple and interpreting definitions"
+            href: notes/Chapter4/Ch4.3e.md
+          - text: "Proof by cases and the triangle inequality"
+            href: notes/Chapter4/Ch4.4.md
+      - section: "Chapter 5 — Proof by Contrapositive and Congruences"
+        contents:
+          - text: "Proof by contrapositive"
+            href: notes/Chapter5/Ch5.1.md
+          - text: "Congruence modulo n and properties of congruent integers"
+            href: notes/Chapter5/Ch5.2a.md
+          - text: "Arithmetic operations on congruences"
+            href: notes/Chapter5/Ch5.2b.md
+      - section: "Chapter 6 — Proof by Contradiction"
+        contents:
+          - text: "Proof by contradiction (reductio ad absurdum)"
+            href: notes/Chapter6/Ch6.1.md
+          - text: "Euclid's proof of infinitely many primes"
+            href: notes/Chapter6/Ch6.1b.md
+      - section: "Chapter 7 — Other Proof Techniques"
+        contents:
+          - text: "If-and-only-if proofs (bidirectional implication)"
+            href: notes/Chapter7/Ch7.1.md
+          - text: "Existence proofs: constructive vs. non-constructive"
+            href: notes/Chapter7/Ch7.3.md
+          - text: "Euclid's algorithm for the GCD"
+            href: notes/Chapter7/Ch7.3b.md
+          - text: "Uniqueness proofs"
+            href: notes/Chapter7/Ch7.3c.md
+          - text: "Further constructive and non-constructive existence proofs"
+            href: notes/Chapter7/Ch7.4.md
+          - text: "Euclidean algorithm via division and subtraction"
+            href: notes/Chapter7/tmp.md
+      - section: "Chapter 8 — Proofs about Sets"
+        contents:
+          - text: "Proving set membership using element characterization"
+            href: notes/Chapter8/Ch8.1.md
+          - text: "Set inclusion proofs (A ⊆ B)"
+            href: notes/Chapter8/Ch8.2.md
+          - text: "Set equality proofs (showing A = B via mutual inclusion)"
+            href: notes/Chapter8/Ch8.3.md
+      - section: "Chapter 9 — Disproof"
+        contents:
+          - text: "Disproving conjectures by counterexample"
+            href: notes/Chapter9/Ch9.1a.md
+          - text: "Disproving universal statements; historical conjectures"
+            href: notes/Chapter9/Ch9.1b.md
+          - text: "Disproving existence claims via universal negation"
+            href: notes/Chapter9/Ch9.2-3.md
+      - section: "Chapter 10 — Mathematical Induction"
+        contents:
+          - text: "Introduction to mathematical induction"
+            href: notes/Chapter10/Ch10.intro.md
+          - text: "Induction proofs: sums, divisibility, and algebraic identities"
+            href: notes/Chapter10/Ch10.1.md
+          - text: "Advanced induction examples including the harmonic series"
+            href: notes/Chapter10/Ch10.1b.md
+          - text: "Strong induction and its relationship to weak induction"
+            href: notes/Chapter10/Ch10.2.md
+          - text: "Strong induction applications including divisibility"
+            href: notes/Chapter10/Ch10.3.md
+          - text: "Fundamental theorem of arithmetic: prime factorization uniqueness"
+            href: notes/Chapter10/Ch10.4.md
+          - text: "Fibonacci numbers and the golden ratio"
+            href: notes/Chapter10/Ch10.5.md
+          - text: "Well-ordering principle and minimal counterexamples"
+            href: notes/Chapter10/Ch10.wellordering.md
+          - text: "Strong induction: non-intersecting segments connecting red and blue points"
+            href: notes/Chapter10/RedBluePtsProblem.md
+      - section: "Chapter 11 — Relations"
+        contents:
+          - text: "Relations as generalizations of equality and ordering"
+            href: notes/Chapter11/Ch11.1.md
+          - text: "Properties of relations: reflexive, symmetric, transitive"
+            href: notes/Chapter11/Ch11.2.md
+          - text: "Equivalence relations and equivalence classes"
+            href: notes/Chapter11/Ch11.3.md
+          - text: "Problems on equivalence relations"
+            href: notes/Chapter11/Ch11.3a.md
+          - text: "Partitions and equivalence relations"
+            href: notes/Chapter11/Ch11.4.md
+          - text: "Integers modulo n as equivalence classes"
+            href: notes/Chapter11/Ch11.5.md
+          - text: "Relations between different sets"
+            href: notes/Chapter11/Ch11.6.md
+      - section: "Chapter 12 — Functions"
+        contents:
+          - text: "Functions as special relations; domain and codomain"
+            href: notes/Chapter12/Ch12.1.md
+          - text: "Equality of functions"
+            href: notes/Chapter12/Ch12.1a.md
+          - text: "Problems distinguishing functions from relations"
+            href: notes/Chapter12/Ch12.1b.md
+          - text: "Injective, surjective, and bijective functions"
+            href: notes/Chapter12/Ch12.2.md
+          - text: "Proving injectivity, surjectivity, and bijectivity"
+            href: notes/Chapter12/Ch12.2a.md
+          - text: "The pigeonhole principle"
+            href: notes/Chapter12/Ch12.3.md
+          - text: "Function composition"
+            href: notes/Chapter12/Ch12.4.md
+          - text: "Inverse relations and inverse functions"
+            href: notes/Chapter12/Ch12.5.md
+          - text: "When the inverse relation is itself a function"
+            href: notes/Chapter12/Ch12.5b.md
+          - text: "Image and preimage of sets under functions"
+            href: notes/Chapter12/Ch12.6.md
+          - text: "Proving bijectivity of a specific cubic rational function"
+            href: notes/Chapter12/Problem12.2.10.md
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
