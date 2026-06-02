@@ -2,8 +2,70 @@
 title: "Math-2710-UConn"
 ---
 
-Transition to Advanced Mathematics, Fall, 2026
-University of Connecticut
+## Syllabus
+
+| Math 2710 - Transition to Advanced Mathematics
+| Fall Semester, 2026
+| University of Connecticut
+
+#### Overview 
+
+Math 2710 is a required course for math majors at UConn. It is designed to teach the essentials writing proofs,
+which is the foundation for all advanced mathematics.
+
+#### Instructor
+
+| Jeremy Teitelbaum
+| 231 Monteith Hall
+| Email: `jeremy.teitelbaum@uconn.edu`
+| [Math Department Home Page](https://math.uconn.edu/teitelbaum)
+| [Personal Home Page](https://jeremy9959.net)
+
+#### Textbook
+
+*The Book of Proof*, 3rd Edition, by Richard Hammack.  This text is [available online](richardhammack.github.io/BookOfProof).  A paper copy
+is also available through amazon.com.
+
+This website includes extensive notes and video lectures (dating back to the pandemic) on nearly all the material we will discuss in the course.
+
+#### Time and Place
+
+| Tuesday, September 1 - Thursday, December 10, 2026.  Final exam the week of December 14, 2026.
+| Tuesdays and Thursdays, 2:00 pm - 3:15 pm
+| Monteith 227
+
+#### Assessments
+
+| In-class quizzes: 25%
+| Two (in-class) midterm exams: 20% each.  *Tentatively* scheduled for 10/1/2026 and 11/5/2026.
+| Final Exam: 35% at regularly scheduled time TBD.
+
+I will not offer make-ups for in-class quizzes, but I will drop the two lowest scores.
+
+#### Disclaimer
+
+The instructor reserves the right to modify or adapt this syllabus, with reasonable notice, to account
+for disruptions due to weather or other unexpected circumstances.
+
+## University Policies
+
+Students with disabilities should work with the [Center for
+Students with Disabilities](https://csd.uconn.edu) to 
+ request academic accommodations. The CSD is located in Wilbur Cross, Room 204 and
+can be reached at (860) 486-2020 or at csd@uconn.edu.  Detailed
+information regarding the process to request accommodations is
+available on the CSD website at [www.csd.uconn.edu](https://csd.uconn.edu).  
+
+Students are bound by the university's policies on academic misconduct.
+Academic misconduct is dishonest or unethical academic behavior that includes, but is not l
+imited to, misrepresenting mastery in an academic area (e.g., cheating), failing to properl
+y credit information, research, or ideas to their rightful originators or representing such
+ information, research, or ideas as your own (e.g., plagiarism).
+
+Students, faculty, and staff are bound by the university's [policy against discrimination,
+harassment, and related interpersonal violence.](https://policy.uconn.edu/2015/12/29/policy
+-against-discrimination-harassment-and-related-interpersonal-violence/)
+ 
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 

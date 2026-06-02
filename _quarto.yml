@@ -3,13 +3,22 @@ project:
 
 website:
   title: "Math 2710: Transition to Higher Mathematics"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Schedule"
+        href: schedule.qmd
+    right:
+      - icon: github
+        href: https://github.com
   sidebar:
     style: "docked"
     search: true
     collapse-level: 1
     contents:
       - index.qmd
-      - about.qmd
+      - schedule.qmd
       - section: "Chapter 1 — Sets"
         contents:
           - text: "Sets, elements, and basic set notation"
