@@ -19,7 +19,9 @@ website:
     contents:
       - index.qmd
       - schedule.qmd
-      - section: "Chapter 1 — Sets"
+      - text: "Book of Proof"
+	    href: https://richardhammack.github.io/BookOfProof/Main.pdf
+	  - section: "Chapter 1 — Sets"
         contents:
           - text: "Sets, elements, and basic set notation"
             href: notes/Chapter1/Ch1.1a.md
