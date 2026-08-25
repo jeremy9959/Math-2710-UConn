@@ -42,6 +42,14 @@ This website includes extensive notes and video lectures (dating back to the pan
 
 I will not offer make-ups for in-class quizzes, but I will drop the two lowest scores.
 
+#### AI Policies and Disclaimers
+
+The notes for this class were written without AI, although the author used Claude Code to build the website.
+
+Students are free to use any tools they wish outside of class.  
+
+In-class assignments and exams will be done without devices of any kind. 
+
 #### Disclaimer
 
 The instructor reserves the right to modify or adapt this syllabus, with reasonable notice, to account
