@@ -26,7 +26,7 @@ which is the foundation for all advanced mathematics.
 *The Book of Proof*, 3rd Edition, by Richard Hammack.  This text is [available online](https://richardhammack.github.io/BookOfProof).  A paper copy
 is also available through amazon.com.
 
-This website includes extensive notes and video lectures (dating back to the pandemic) on nearly all the material we will discuss in the course.
+[This website](https://jeremy9959.net/Math-2710-UConn)  includes extensive notes and video lectures (dating back to the pandemic) on nearly all the material we will discuss in the course.
 
 #### Time and Place
 
@@ -41,6 +41,14 @@ This website includes extensive notes and video lectures (dating back to the pan
 | Final Exam: 35% at regularly scheduled time TBD.
 
 I will not offer make-ups for in-class quizzes, but I will drop the two lowest scores.
+
+#### AI Policies and Disclaimers
+
+The notes for this class were written without AI, although the author used Claude Code to build the website.
+
+Students are free to use any tools they wish outside of class.  
+
+In-class assignments and exams will be done without devices of any kind. 
 
 #### Disclaimer
 

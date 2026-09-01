@@ -1,4 +1,5 @@
 /.quarto/
 /_site/
 /resources/
+/homework/
 **/*.quarto_ipynb
