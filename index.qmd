@@ -26,7 +26,7 @@ which is the foundation for all advanced mathematics.
 *The Book of Proof*, 3rd Edition, by Richard Hammack.  This text is [available online](https://richardhammack.github.io/BookOfProof).  A paper copy
 is also available through amazon.com.
 
-[This website](https://jeremy9959.net/Math-2710-UConn)  includes extensive notes and video lectures (dating back to the pandemic) on nearly all the material we will discuss in the course.
+This website includes extensive notes and video lectures (dating back to the pandemic) on nearly all the material we will discuss in the course.
 
 #### Time and Place
 
