@@ -1,5 +1,10 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "**/*.qmd"
+    - "**/*.md"
+    - homework/Chapter1/problems_20260901.md
 
 website:
   title: "Math 2710: Transition to Higher Mathematics"
@@ -215,6 +220,10 @@ website:
             href: notes/Chapter1/Ch1.1a.given.pdf
           - text: "09012026 continued"
             href: notes/Chapter1/Ch1.1b.given.pdf
+      - section: "Recommended Problems"
+        contents:
+          - text: "09012026"
+            href: homework/problems_20260901.md
 format:
   html:
     theme: cosmo
