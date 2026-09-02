@@ -4,7 +4,7 @@ project:
     - "*.qmd"
     - "**/*.qmd"
     - "**/*.md"
-    - homework/Chapter1/problems_20260901.md
+    - homework/problems_20260901.md
 
 website:
   title: "Math 2710: Transition to Higher Mathematics"
