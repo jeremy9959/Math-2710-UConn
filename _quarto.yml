@@ -1,6 +1,12 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "**/*.qmd"
+    - "**/*.md"
+    - homework/problems_20260901.md
 
+    - homework/problems_20260903.md
 website:
   title: "Math 2710: Transition to Higher Mathematics"
   navbar:
@@ -209,7 +215,18 @@ website:
             href: notes/Chapter12/Ch12.6.md
           - text: "Proving bijectivity of a specific cubic rational function"
             href: notes/Chapter12/Problem12.2.10.md
-
+      - section: "In Class Notes"
+        contents:
+          - text: "09012026"
+            href: notes/Chapter1/Ch1.1a.given.pdf
+          - text: "09012026 continued"
+            href: notes/Chapter1/Ch1.1b.given.pdf
+      - section: "Recommended Problems"
+        contents:
+          - text: "09012026"
+            href: homework/problems_20260901.md
+          - text: "09032026"
+            href: homework/problems_20260903.md
 format:
   html:
     theme: cosmo
