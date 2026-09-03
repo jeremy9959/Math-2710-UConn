@@ -7,6 +7,7 @@ project:
     - homework/problems_20260901.md
 
     - homework/problems_20260903.md
+    - homework/problems_20260908.md
 website:
   title: "Math 2710: Transition to Higher Mathematics"
   navbar:
@@ -227,6 +228,8 @@ website:
             href: homework/problems_20260901.md
           - text: "09032026"
             href: homework/problems_20260903.md
+          - text: "09082026"
+            href: homework/problems_20260908.md
 format:
   html:
     theme: cosmo

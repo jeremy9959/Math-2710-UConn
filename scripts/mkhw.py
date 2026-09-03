@@ -145,19 +145,19 @@ def build_markdown(date_info, resolved, sections):
             lines.append("")
         for group_id in sorted(grouped[sec_id]):
             group = sec["groups"][group_id]
-            lines.append(f"**{group_id}.** {group.get('instructions', '').strip()}")
+            lines.append(f"### {group_id}. {group.get('instructions', '').strip()}")
             lines.append("")
             numbers = sorted(grouped[sec_id][group_id], key=int)
             for number in numbers:
                 item = grouped[sec_id][group_id][number]
                 if item["parts"]:
-                    lines.append(f"**{number}.** {item['stem']}")
+                    lines.append(f"- **{number}.** {item['stem']}")
                     lines.append("")
                     for letter in sorted(item["parts"]):
-                        lines.append(f"**({letter})** {item['parts'][letter]}")
+                        lines.append(f"    - **({letter})** {item['parts'][letter]}")
                         lines.append("")
                 else:
-                    lines.append(f"**{number}.** {item['latex']}")
+                    lines.append(f"- **{number}.** {item['latex']}")
                     lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"
