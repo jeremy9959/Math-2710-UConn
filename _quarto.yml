@@ -225,19 +225,19 @@ website:
           - text: "09032026"
             href: notes/Chapter1/Ch1.2.given.pdf
           - text: "09032026 (cont'd)"
-            href: notes/CHapter1/Ch1.3a.given.pdf    
-       - section: "Recommended Problems"
-         contents:
+            href: notes/Chapter1/Ch1.3a.given.pdf
+      - section: "Recommended Problems"
+        contents:
           - text: "09012026"
             href: homework/problems_20260901.md
           - text: "09032026"
             href: homework/problems_20260903.md
           - text: "09082026"
             href: homework/problems_20260908.md
-        - section: "In Class Quizzes"
-          contents:
-           - text: "09032026"
-             href: quizzes/Worksheet1.1.pdf
+      - section: "In Class Quizzes"
+        contents:
+          - text: "09032026"
+            href: quizzes/Worksheet1.1.pdf
 format:
   html:
     theme: cosmo
