@@ -1,4 +1,5 @@
+/ferpa
 /.quarto/
 /_site/
-/homework/
+/resources/
 **/*.quarto_ipynb
