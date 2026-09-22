@@ -9,6 +9,9 @@ project:
     - homework/problems_20260908.md
     - homework/problems_20260915.md
     - homework/problems_20260910.md
+    - homework/problems_20260917.md
+    - homework/problems_20260922.md
+    - homework/problems_20260924.md
 website:
   title: "Math 2710: Transition to Higher Mathematics"
   navbar:
@@ -245,6 +248,16 @@ website:
             href: "notes/Chapter1/Ch1.8 (2).given.pdf"
           - text: "09152026"
             href: "notes/Chapter2/Ch2.1 (2).given.pdf"
+          - text: "09172026"
+            href: "notes/Chapter2/Ch2.2 (2).given.pdf"
+          - text: "09172026 (cont'd)"
+            href: "notes/Chapter2/Ch2.3 (2).given.pdf"
+          - text: "09172026 (cont'd)"
+            href: "notes/Chapter2/Ch2.4 (2).given.pdf"
+          - text: "09172026 (cont'd)"
+            href: "notes/Chapter2/Ch2.5 (2).given.pdf"
+          - text: "09172026 (cont'd)"
+            href: "notes/Chapter2/Ch2.6 (2).given.pdf"
       - section: "Recommended Problems"
         contents:
           - text: "09012026"
@@ -257,6 +270,12 @@ website:
             href: homework/problems_20260910.md
           - text: "09152026"
             href: homework/problems_20260915.md
+          - text: "09172026"
+            href: homework/problems_20260917.md
+          - text: "09222026"
+            href: homework/problems_20260922.md
+          - text: "09242026"
+            href: homework/problems_20260924.md
       - section: "In Class Quizzes"
         contents:
           - text: "09032026"
