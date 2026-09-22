@@ -1,1 +1,1 @@
-Sitemap: https://jeremy9959.github.io/Math-2710-UConn/sitemap.xml
+Sitemap: https://github.com/jeremy9959/Math-2710-UConn/sitemap.xml
