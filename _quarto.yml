@@ -282,6 +282,8 @@ website:
             href: quizzes/Worksheet1.1.pdf
           - text: "09102026"
             href: quizzes/Worksheet1.3.pdf
+          - text: "09172026"
+            href: quizzes/Worksheet2.1.pdf
 format:
   html:
     theme: cosmo
