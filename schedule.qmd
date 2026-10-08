@@ -53,29 +53,29 @@ title: Math 2710 Schedule
   <td>First Midterm</td>
   <td></td></tr>
 <tr><td>Tu 10/06</td>
-  <td>§3.1–3.2</td>
-  <td><a href="notes/Chapter3/Ch3.1.html">Multiplication principle</a>; <a href="notes/Chapter3/Ch3.2.html">addition principle</a></td></tr>
-<tr class="week-end"><td>Th 10/08</td>
-  <td>§3.3–3.5</td>
-  <td><a href="notes/Chapter3/Ch3.3.html">Permutations</a>; <a href="notes/Chapter3/Ch3.4.html">combinations</a>; <a href="notes/Chapter3/Ch3.5.html">Pascal's triangle and binomial theorem</a></td></tr>
-<tr><td>Tu 10/13</td>
   <td>§4.1–4.2</td>
   <td><a href="notes/Chapter4/Ch4.1.html">Theorems and definitions</a>; <a href="notes/Chapter4/Ch4.2.html">division algorithm</a></td></tr>
-<tr class="week-end"><td>Th 10/15</td>
+<tr class="week-end"><td>Th 10/08</td>
   <td>§4.3</td>
   <td><a href="notes/Chapter4/Ch4.3a.html">Direct proofs</a>; <a href="notes/Chapter4/Ch4.3b.html">examples</a></td></tr>
-<tr><td>Tu 10/20</td>
+<tr><td>Tu 10/13</td>
   <td>§4.3–4.4</td>
   <td><a href="notes/Chapter4/Ch4.3d.html">Using definitions in proofs</a>; <a href="notes/Chapter4/Ch4.3e.html">more direct proofs</a>; <a href="notes/Chapter4/Ch4.4.html">proof by cases</a></td></tr>
-<tr class="week-end"><td>Th 10/22</td>
+<tr class="week-end"><td>Th 10/15</td>
   <td>§5.1–5.2</td>
   <td><a href="notes/Chapter5/Ch5.1.html">Proof by contrapositive</a>; <a href="notes/Chapter5/Ch5.2a.html">congruences</a>; <a href="notes/Chapter5/Ch5.2b.html">congruence arithmetic</a></td></tr>
-<tr><td>Tu 10/27</td>
+<tr><td>Tu 10/20</td>
   <td>§6.1, §7.1</td>
   <td><a href="notes/Chapter6/Ch6.1.html">Proof by contradiction</a>; <a href="notes/Chapter6/Ch6.1b.html">Euclid's proof of infinitely many primes</a>; <a href="notes/Chapter7/Ch7.1.html">if-and-only-if proofs</a></td></tr>
-<tr class="week-end"><td>Th 10/29</td>
+<tr class="week-end"><td>Th 10/22</td>
   <td>§7.3–7.4</td>
   <td><a href="notes/Chapter7/Ch7.3.html">Existence proofs</a>; <a href="notes/Chapter7/Ch7.3b.html">Euclid's algorithm</a>; <a href="notes/Chapter7/Ch7.3c.html">uniqueness proofs</a>; <a href="notes/Chapter7/Ch7.4.html">constructive and non-constructive proofs</a></td></tr>
+<tr><td>Tu 10/27</td>
+  <td>§8.1–8.3</td>
+  <td><a href="notes/Chapter8/Ch8.1.html">Proving set membership</a>; <a href="notes/Chapter8/Ch8.2.html">set inclusion proofs</a>; <a href="notes/Chapter8/Ch8.3.html">set equality proofs</a></td></tr>
+<tr class="week-end"><td>Th 10/29</td>
+  <td>§9.1–9.3</td>
+  <td><a href="notes/Chapter9/Ch9.1a.html">Counterexamples</a>; <a href="notes/Chapter9/Ch9.1b.html">disproving universal statements</a>; <a href="notes/Chapter9/Ch9.2-3.html">disproving existence claims</a></td></tr>
 <tr><td>Tu 11/03</td>
   <td>Review</td>
   <td></td></tr>
@@ -83,17 +83,17 @@ title: Math 2710 Schedule
   <td>Second Midterm</td>
   <td></td></tr>
 <tr><td>Tu 11/10</td>
-  <td>§8.1–8.3</td>
-  <td><a href="notes/Chapter8/Ch8.1.html">Proving set membership</a>; <a href="notes/Chapter8/Ch8.2.html">set inclusion proofs</a>; <a href="notes/Chapter8/Ch8.3.html">set equality proofs</a></td></tr>
-<tr class="week-end"><td>Th 11/12</td>
-  <td>§9.1–9.3</td>
-  <td><a href="notes/Chapter9/Ch9.1a.html">Counterexamples</a>; <a href="notes/Chapter9/Ch9.1b.html">disproving universal statements</a>; <a href="notes/Chapter9/Ch9.2-3.html">disproving existence claims</a></td></tr>
-<tr><td>Tu 11/17</td>
   <td>§10.1</td>
   <td><a href="notes/Chapter10/Ch10.intro.html">Introduction to induction</a>; <a href="notes/Chapter10/Ch10.1.html">induction proofs</a>; <a href="notes/Chapter10/Ch10.1b.html">more examples</a></td></tr>
-<tr class="week-end"><td>Th 11/19</td>
+<tr class="week-end"><td>Th 11/12</td>
   <td>§10.2–10.5</td>
   <td><a href="notes/Chapter10/Ch10.2.html">Strong induction</a>; <a href="notes/Chapter10/Ch10.3.html">strong induction continued</a>; <a href="notes/Chapter10/Ch10.4.html">fundamental theorem of arithmetic</a>; <a href="notes/Chapter10/Ch10.5.html">Fibonacci numbers</a>; <a href="notes/Chapter10/Ch10.wellordering.html">well-ordering principle</a></td></tr>
+<tr><td>Tu 11/17</td>
+  <td>§3.1–3.2</td>
+  <td><a href="notes/Chapter3/Ch3.1.html">Multiplication principle</a>; <a href="notes/Chapter3/Ch3.2.html">addition principle</a></td></tr>
+<tr class="week-end"><td>Th 11/19</td>
+  <td>§3.3–3.5</td>
+  <td><a href="notes/Chapter3/Ch3.3.html">Permutations</a>; <a href="notes/Chapter3/Ch3.4.html">combinations</a>; <a href="notes/Chapter3/Ch3.5.html">Pascal's triangle and binomial theorem</a></td></tr>
 <tr><td>Tu 11/24</td>
   <td>Thanksgiving Break</td>
   <td></td></tr>

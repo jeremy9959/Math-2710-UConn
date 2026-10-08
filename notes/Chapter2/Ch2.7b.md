@@ -36,8 +36,12 @@ There exists $x\in\N$ so that for all $y\in\N$ we have $xy>1$.
 
 There exists $x\in\Q$ so that for all $y\in\Q$ we have $xy<y$.
 
+## Exercises for Section 2.7
 
+![Exercises for Section 2.7, Book of Proof, p. 55](Exercises2.7.png)
 
 ## Related Video
 
 {{< video https://www.youtube.com/watch?v=g29HVZlBZYI >}}
+
+

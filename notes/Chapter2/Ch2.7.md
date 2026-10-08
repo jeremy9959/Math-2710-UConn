@@ -101,6 +101,17 @@ There exists $x\in X$ such that $P(x)$ is a kind of  "OR" statement.
 For all $x\in X$ such that $P(x)$ is a kind of  "AND" statement.
 
 
+## Some sample problems. 
+
+(From Book of Proof, Section 2.7)
+
+Interpret the following as English sentences, and say if they are true or false:
+
+1. $\forall x\in\mathbb{R}, x^2>0$.
+2. $\forall X \in \mathcal{P}(\mathbb{N}), X\subset \mathbb{R}$
+8. $\exists a\in\mathbb{R}, a^2=-1$.
+
+
 
 
 
