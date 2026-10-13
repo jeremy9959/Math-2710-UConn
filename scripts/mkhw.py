@@ -138,7 +138,8 @@ def build_markdown(date_info, resolved, sections):
 
     for sec_id in seen_sections:
         sec = sections[sec_id]
-        lines.append(f"## Exercises for Section {sec_id}")
+        unit = "Chapter" if "." not in sec_id else "Section"
+        lines.append(f"## Exercises for {unit} {sec_id}")
         lines.append("")
         if sec.get("source"):
             lines.append(f"Source: {sec['source'].strip()}")
