@@ -3,7 +3,7 @@
 
 ## From page 122 of the text
 
-![lcm proposition](../../png/LCMProp.png)
+![lcm proposition](LCMProp.png)
 
 ## The hidden part - check the definitions
 
