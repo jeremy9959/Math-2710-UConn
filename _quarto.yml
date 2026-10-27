@@ -263,6 +263,28 @@ website:
             href: "notes/Chapter4/Ch4.2 (2).given.pdf"
           - text: "10082026"
             href: "notes/Chapter4/Ch4.3d (2).given.pdf"
+          - text: "10082026 (cont'd)"
+            href: "notes/Chapter4/Ch4.3a (2).given.pdf"
+          - text: "10132026"
+            href: "notes/Chapter4/Note Oct 13, 2026.given.pdf"
+          - text: "10132026 (cont'd)"
+            href: "notes/Chapter4/Ch4.3e (2).given.pdf"
+          - text: "10132026 (cont'd)"
+            href: "notes/Chapter4/Ch4.4 (2).given.pdf"
+          - text: "10152026"
+            href: "notes/Chapter5/Ch5.1 (2).given.pdf"
+          - text: "10152026 (cont'd)"
+            href: "notes/Chapter5/Ch5.2 (2).given.pdf"
+          - text: "10152026 (cont'd)"
+            href: "notes/Chapter5/Ch5.2b (2).given.pdf"
+          - text: "10202026"
+            href: "notes/Chapter6/Ch6.1 (2).given.pdf"
+          - text: "10202026 (cont'd)"
+            href: "notes/Chapter6/Ch6.1b (2).given.pdf"
+          - text: "10202026 (cont'd)"
+            href: "notes/Chapter7/Ch7.1 (2).given.pdf"
+          - text: "10222026"
+            href: "notes/Chapter7/Ch7.3 (2).given.pdf"
       - section: "Recommended Problems"
         contents:
           - text: "09012026"
@@ -287,12 +309,18 @@ website:
         contents:
           - text: "09032026"
             href: quizzes/Worksheet1.1.pdf
+          - text: "09032026 (cont'd)"
+            href: quizzes/Worksheet1.2.pdf
           - text: "09102026"
             href: quizzes/Worksheet1.3.pdf
           - text: "09172026"
             href: quizzes/Worksheet2.1.pdf
           - text: "09242026"
             href: quizzes/Worksheet2.2.pdf
+          - text: "10132026"
+            href: quizzes/Worksheet4.1.pdf
+          - text: "10222026"
+            href: quizzes/Worksheet6.1.pdf
       - section: "Exams"
         contents:
           - text: "Exam One"
