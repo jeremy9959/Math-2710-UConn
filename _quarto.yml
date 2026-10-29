@@ -328,11 +328,8 @@ website:
             href: quizzes/Worksheet2.2.pdf
           - text: "10132026"
             href: quizzes/Worksheet4.1.pdf
-<<<<<<< HEAD
           - text: "10222026"
             href: quizzes/Worksheet6.1.pdf
-=======
->>>>>>> refs/remotes/origin/main
       - section: "Exams"
         contents:
           - text: "Exam One"
